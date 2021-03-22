@@ -1,0 +1,35 @@
+ Projects
+
+
+ Marks : 100
+
+ 5 Projects
+
+ 1 project/days (20 marks each)
+
+ Web Application :
+ 
+ 1) Core Java
+ 2) J2EE (Servlets & JSP)      :        1 st project
+ 3) UI (Angular,javascript, HTML,JQuery,CSS)    3. Simple HTML  4. Angular
+ 4) Spring & Hibernate                  2nd project
+ 5) Web Service                         5. Web Service
+
+ Requirements :
+                Eclipse         : IDE 
+                Apache Tomcat 9 : Web Server
+                Oracle XE 11    : Database 
+                Java 8          : Backend Language
+                JSP /CSS/JQuery : View   
+                Servlets        : Business Logic
+ 
+
+
+        Front End Development :
+                           
+                              HTML (Simple Project) 
+                              Javascript/ CSS/JQuery
+                              
+                              Angular ( Visual Studio code , Angular CLI)
+
+
